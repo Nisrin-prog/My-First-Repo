@@ -7,6 +7,10 @@ function setup() {
 function draw() 
 {
   background(30);
+  if(keyDown(RIGHT_ARROW){
+     box.x = box.x+10
+     }
+     
 drawSprites()
 }
 
